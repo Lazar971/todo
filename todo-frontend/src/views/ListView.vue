@@ -2,7 +2,7 @@
  
   <div>
     
-    <span>TEST 123</span>
+    
     <Navbar />
     <List />
   </div>
